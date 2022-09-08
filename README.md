@@ -2,17 +2,18 @@
 ![](https://hit.yhype.me/github/profile?user_id=28761454)
 ![](https://komarev.com/ghpvc/?username=trevsm)
 
-<!--
-**trevsm/trevsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [`Automated Redbubble Uploader`](https://github.com/trevsm/redbubble-uploader)
+- 🌱 I’m currently learning [`Zustand`](https://github.com/pmndrs/zustand) [`puppeteer`](https://pptr.dev/)
+- 📫 How to reach me: trevorsm@pm.me
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/trevor-smith-27621613b/" target="_new">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.instagram.com/trev_sm/" target="new">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
+<a href="https://open.spotify.com/playlist/34VXSKqaxu1TCz27ML1ZkI" target="new">
+<img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify">
+</a>
