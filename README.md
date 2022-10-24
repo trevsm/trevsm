@@ -2,8 +2,8 @@
 ![](https://hit.yhype.me/github/profile?user_id=28761454)
 ![](https://komarev.com/ghpvc/?username=trevsm)
 
-- 🔭 I’m currently working on [`Automated Redbubble Uploader`](https://github.com/trevsm/redbubble-uploader)
-- 🌱 I’m currently learning [`Zustand`](https://github.com/pmndrs/zustand) [`puppeteer`](https://pptr.dev/)
+- 🔭 I’m currently working on [`2D Tileset Painter`](https://github.com/trevsm/tileset-painter-v2)
+- 🌱 I’m currently learning [`Apollo`](https://www.apollographql.com/docs/react/) [`Zustand`](https://github.com/pmndrs/zustand) 
 - 📫 How to reach me: trevorsm@pm.me
 
 <a href="https://www.linkedin.com/in/trevor-smith-27621613b/" target="_new">
