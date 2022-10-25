@@ -2,7 +2,7 @@
 ![](https://hit.yhype.me/github/profile?user_id=28761454)
 ![](https://komarev.com/ghpvc/?username=trevsm)
 
-- 🔭 I’m currently working on [`2D Tileset Painter`](https://github.com/trevsm/tileset-painter-v2)
+- 🔭 I’m currently working on [`2D Tileset Painter`](https://codesandbox.io/s/github/trevsm/tileset-painter-v2)
 - 🌱 I’m currently learning [`Apollo`](https://www.apollographql.com/docs/react/) [`Zustand`](https://github.com/pmndrs/zustand) 
 - 📫 How to reach me: trevorsm@pm.me
 
