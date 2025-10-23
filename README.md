@@ -2,8 +2,7 @@
 ![](https://hit.yhype.me/github/profile?user_id=28761454)
 ![](https://komarev.com/ghpvc/?username=trevsm)
 
-- 🔭 I’m currently working on [Jpg Repair Tool](https://github.com/trevsm/jpg-repair-tool)
-- 🌱 I’m currently learning [`Image Binary Standards`](https://en.wikipedia.org/wiki/Image_file_format)
+- 🔭 I’m currently working on [Particle Life Simulations](https://trevsm.github.io/particlelife-sim/)
 - 📫 How to reach me: trevorsm@pm.me
 
 <a href="https://www.linkedin.com/in/trevor-smith-27621613b/" target="_new">
